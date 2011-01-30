@@ -1,1596 +1,0 @@
-THatzalah
-v7
-r0
-t314679374.928518
-cCheck dependencies
-cProcessInfoPlistFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Info.plist Hatzalah-Info.plist
-cCopyPlistFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Numbers.plist en.lproj/Numbers.plist
-cCopyPlistFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Numbers.plist he.lproj/Numbers.plist
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/Settings.bundle Settings.bundle
-cCopyStringsFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
-cCopyStringsFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/InfoPlist.strings he.lproj/InfoPlist.strings
-cCopyStringsFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
-cCopyStringsFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Localizable.strings he.lproj/Localizable.strings
-cCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/FlipsideView.xib
-cCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/FlipsideView.xib
-cCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/MainView.xib
-cCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/MainView.xib
-cCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/MainWindow.xib
-cCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/MainWindow.xib
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-72.png images/en.lproj/Icon-72.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-72.png images/he.lproj/Icon-72.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small-50.png images/en.lproj/Icon-Small-50.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-Small-50.png images/he.lproj/Icon-Small-50.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small.png images/en.lproj/Icon-Small.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-Small.png images/he.lproj/Icon-Small.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small@2x.png images/en.lproj/Icon-Small@2x.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-Small@2x.png images/he.lproj/Icon-Small@2x.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon.png images/en.lproj/Icon.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon.png images/he.lproj/Icon.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon@2x.png images/en.lproj/Icon@2x.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon@2x.png images/he.lproj/Icon@2x.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Default.png images/he.lproj/Default.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Default.png images/en.lproj/Default.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Default@2x.png images/he.lproj/Default@2x.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Default@2x.png images/en.lproj/Default@2x.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/iTunesArtwork.png images/he.lproj/iTunesArtwork.png
-cCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/iTunesArtwork.png images/en.lproj/iTunesArtwork.png
-cProcessPCH /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-hkmoqiwwjvbsuiffbwlawqhdpvrz/Hatzalah_Prefix.pch.gch Hatzalah_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/main.o /Users/Moshe/Development/iOS/Live/Hatzalah/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/HatzalahAppDelegate.o /Users/Moshe/Development/iOS/Live/Hatzalah/Classes/HatzalahAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/MainViewController.o /Users/Moshe/Development/iOS/Live/Hatzalah/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/FlipsideViewController.o /Users/Moshe/Development/iOS/Live/Hatzalah/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/SettingsView.o /Users/Moshe/Development/iOS/Live/Hatzalah/SettingsView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cLd /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah normal i386
-cGenerateDSYMFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app.dSYM /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah
-cTouch /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
-c000000004CC128950000000000000110
-t1287727253
-s272
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
-c000000004CC12246000000000029B310
-t1287725638
-s2732816
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c000000004CC1226D000000000029D5D0
-t1287725677
-s2741712
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c000000004CC1225F0000000000001466
-t1287725663
-s5222
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c000000004CC1281F0000000000000AA1
-t1287727135
-s2721
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c000000004CC12883000000000074D7B0
-t1287727235
-s7657392
-
-N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
-c000000004CB3FA080000000000001ADD
-t1286863368
-s6877
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/Constants.h
-c000000004D042C040000000000000230
-t1292119044
-s560
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/FlipsideViewController.h
-c000000004D0272A30000000000000231
-t1292006051
-s561
-i<UIKit/UIKit.h>
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/FlipsideViewController.m
-c000000004D02954200000000000004C2
-t1292014914
-s1218
-i"FlipsideViewController.h"
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/HatzalahAppDelegate.h
-c000000004D0272A300000000000001E0
-t1292006051
-s480
-i<UIKit/UIKit.h>
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/HatzalahAppDelegate.m
-c000000004D0430160000000000000F38
-t1292120086
-s3896
-i"HatzalahAppDelegate.h"
-i"MainViewController.h"
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/MainViewController.h
-c000000004D027CC700000000000001AE
-t1292008647
-s430
-i"FlipsideViewController.h"
-i"SettingsView.h"
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/MainViewController.m
-c000000004D042A450000000000000889
-t1292118597
-s2185
-i"MainViewController.h"
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/FlipsideView.xib
-c000000004D0429E20000000000005000
-t1292118498
-s20480
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/Hatzalah_Prefix.pch
-c000000004D0272A30000000000000142
-t1292006051
-s322
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/IMG_0241.PNG
-c000000004D042F34000000000000ADCC
-t1292119860
-s44492
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/MainView.xib
-c000000004D042E3000000000000068A3
-t1292119600
-s26787
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/MainWindow.xib
-c000000004D0272A3000000000000509C
-t1292006051
-s20636
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/Numbers.plist
-c000000004D041D690000000000000C97
-t1292115305
-s3223
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/Settings.bundle
-c000000004D0426F70000000000000088
-t1292117751
-s136
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/SettingsView.h
-c000000004D0284560000000000000141
-t1292010582
-s321
-i<UIKit/UIKit.h>
-i"Constants.h"
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/SettingsView.m
-c000000004D042EAE000000000000178E
-t1292119726
-s6030
-i"SettingsView.h"
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app
-t1292117568
-s578
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app.dSYM
-t1292117568
-s102
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Default.png
-t2
-s0
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/FlipsideView.nib
-t1292117564
-s2562
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah
-t1292117568
-s31284
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/IMG_0241.PNG
-t2
-s0
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Icon-72.png
-t1292117558
-s14052
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Icon-Small-50.png
-t1292117559
-s7228
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Icon-Small.png
-t1292117558
-s2718
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Icon-Small@2x.png
-t1292117558
-s9433
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Icon.png
-t1292117559
-s9080
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Icon@2x.png
-t1292117559
-s32725
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Info.plist
-t1292117554
-s728
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/MainView.nib
-t1292108569
-s2394
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/MainWindow.nib
-t1292108570
-s1150
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Numbers.plist
-t1292117558
-s1167
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/PkgInfo
-t1292117554
-s8
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Settings.bundle
-t1292117555
-s136
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/iTunesArtwork.png
-t1292117559
-s120201
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/FlipsideViewController.o
-t1292108571
-s41336
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/Hatzalah.LinkFileList
-c000000004D04031900000000000002DA
-t1292108569
-s730
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/HatzalahAppDelegate.o
-t1292108571
-s57796
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/MainViewController.o
-t1292108571
-s45760
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/SettingsView.o
-t1292117567
-s47956
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/main.o
-t1292108571
-s6324
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/images/Default.png
-c000000004D042F34000000000000ADCC
-t1292119860
-s44492
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/images/Icon-72.png
-c000000004D04250100000000000036E4
-t1292117249
-s14052
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/images/Icon-Small-50.png
-c000000004D0425690000000000001C3C
-t1292117353
-s7228
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/images/Icon-Small.png
-c000000004D0425470000000000000A9E
-t1292117319
-s2718
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/images/Icon-Small@2x.png
-c000000004D04251C00000000000024D9
-t1292117276
-s9433
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/images/Icon.png
-c000000004D04252F0000000000002378
-t1292117295
-s9080
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/images/Icon@2x.png
-c000000004D0424E10000000000007FD5
-t1292117217
-s32725
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/images/iTunesArtwork.png
-c000000004D042388000000000001D589
-t1292116872
-s120201
-
-N/Users/Moshe/Development/iOS/In Progress/Hatzalah/main.m
-c000000004D0272A30000000000000169
-t1292006051
-s361
-i<UIKit/UIKit.h>
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/Constants.h
-c000000004D042C040000000000000230
-t1292119044
-s560
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/FlipsideViewController.h
-c000000004D0272A30000000000000231
-t1292006051
-s561
-i<UIKit/UIKit.h>
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/FlipsideViewController.m
-c000000004D115AE70000000000000452
-t1292983015
-s1106
-i"FlipsideViewController.h"
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/HatzalahAppDelegate.h
-c000000004D0272A300000000000001E0
-t1292006051
-s480
-i<UIKit/UIKit.h>
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/HatzalahAppDelegate.m
-c000000004D115B670000000000001067
-t1292983143
-s4199
-i"HatzalahAppDelegate.h"
-i"MainViewController.h"
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/MainViewController.h
-c000000004D04376100000000000001AE
-t1292121953
-s430
-i"FlipsideViewController.h"
-i"SettingsView.h"
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/MainViewController.m
-c000000004D1164150000000000000889
-t1292985365
-s2185
-i"MainViewController.h"
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/FlipsideView.xib
-c000000004D0D5812000000000005C653
-t1292720146
-s378451
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/Hatzalah_Prefix.pch
-c000000004D0272A30000000000000142
-t1292006051
-s322
-i<Availability.h>
-i<Foundation/Foundation.h>
-i<UIKit/UIKit.h>
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/Localizable.strings
-c000000004D115E44000000000000008C
-t1292983876
-s140
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/MainView.xib
-c000000004D042E3000000000000068A3
-t1292119600
-s26787
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/MainWindow.xib
-c000000004D0272A3000000000000509C
-t1292006051
-s20636
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/Settings.bundle
-c000000004D11554F00000000000000AA
-t1292981583
-s170
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/SettingsView.h
-c000000004D0284560000000000000141
-t1292010582
-s321
-i<UIKit/UIKit.h>
-i"Constants.h"
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/SettingsView.m
-c000000004D115B6F000000000000171D
-t1292983151
-s5917
-i"SettingsView.h"
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app
-t1292986574
-s272
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app.dSYM
-t1292986574
-s102
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Default.png
-t1292985474
-s117286
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Default@2x.png
-t1292985474
-s127562
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/FlipsideView.nib
-t1292985474
-s2357
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah
-t1292986574
-s31176
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Icon-72.png
-t1292985474
-s14052
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Icon-Small-50.png
-t1292985474
-s7228
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Icon-Small.png
-t1292985474
-s2718
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Icon-Small@2x.png
-t1292985474
-s9433
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Icon.png
-t1292985474
-s9080
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Icon@2x.png
-t1292985474
-s32725
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Info.plist
-t1292986572
-s778
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Localizable.strings
-t2
-s0
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/MainView.nib
-t1292985474
-s1763
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/MainWindow.nib
-t1292985475
-s1150
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/PkgInfo
-t1292986572
-s8
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Settings.bundle
-t1292986572
-s170
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Default.png
-t1292986573
-s117286
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Default@2x.png
-t1292986573
-s127562
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/FlipsideView.nib
-t1292986572
-s2357
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-72.png
-t1292986573
-s14052
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small-50.png
-t1292986573
-s7228
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small.png
-t1292986573
-s2718
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small@2x.png
-t1292986573
-s9433
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon.png
-t1292986573
-s9080
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon@2x.png
-t1292986573
-s32725
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/InfoPlist.strings
-t1292986572
-s77
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Localizable.strings
-t1292986572
-s589
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/MainView.nib
-t1292986573
-s1763
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/MainWindow.nib
-t1292986573
-s1150
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Numbers.plist
-t1292986572
-s1167
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/iTunesArtwork.png
-t1292986573
-s120201
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Default.png
-t1292986573
-s114482
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Default@2x.png
-t1292986573
-s122792
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/FlipsideView.nib
-t1292986572
-s2593
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-72.png
-t1292986573
-s14052
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-Small-50.png
-t1292986573
-s7228
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-Small.png
-t1292986573
-s2718
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-Small@2x.png
-t1292986573
-s9433
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon.png
-t1292986573
-s9080
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon@2x.png
-t1292986573
-s32725
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/InfoPlist.strings
-t1292986572
-s77
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Localizable.strings
-t1292986572
-s827
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/MainView.nib
-t1292986573
-s1768
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/MainWindow.nib
-t1292986573
-s1150
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Numbers.plist
-t1292986572
-s1420
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/iTunesArtwork.png
-t1292986573
-s115816
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/iTunesArtwork.png
-t1292985474
-s120201
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/FlipsideViewController.o
-t1292986574
-s40848
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/Hatzalah.LinkFileList
-c000000004D1168CC00000000000002B7
-t1292986572
-s695
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/HatzalahAppDelegate.o
-t1292986574
-s60948
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/MainViewController.o
-t1292986574
-s45592
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/SettingsView.o
-t1292986574
-s54300
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/main.o
-t1292986574
-s6312
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/FlipsideView.xib
-c000000004D0D5812000000000005C653
-t1292720146
-s378451
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/Icon-72.png
-c000000004D04250100000000000036E4
-t1292117249
-s14052
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/Icon-Small-50.png
-c000000004D0425690000000000001C3C
-t1292117353
-s7228
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/Icon-Small.png
-c000000004D0425470000000000000A9E
-t1292117319
-s2718
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/Icon-Small@2x.png
-c000000004D04251C00000000000024D9
-t1292117276
-s9433
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/Icon.png
-c000000004D04252F0000000000002378
-t1292117295
-s9080
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/Icon@2x.png
-c000000004D0424E10000000000007FD5
-t1292117217
-s32725
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/InfoPlist.strings
-c000000004D11578500000000000000AC
-t1292982149
-s172
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/Localizable.strings
-c000000004D115B3300000000000002B8
-t1292983091
-s696
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/MainView.xib
-c000000004D042E3000000000000068A3
-t1292119600
-s26787
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/MainWindow.xib
-c000000004D0272A3000000000000509C
-t1292006051
-s20636
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/Numbers.plist
-c000000004D115E0C0000000000000C97
-t1292983820
-s3223
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/images/Icon-72.png
-c000000004D04250100000000000036E4
-t1292117249
-s14052
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/images/Icon-Small-50.png
-c000000004D0425690000000000001C3C
-t1292117353
-s7228
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/images/Icon-Small.png
-c000000004D0425470000000000000A9E
-t1292117319
-s2718
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/images/Icon-Small@2x.png
-c000000004D04251C00000000000024D9
-t1292117276
-s9433
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/images/Icon.png
-c000000004D04252F0000000000002378
-t1292117295
-s9080
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/images/Icon@2x.png
-c000000004D0424E10000000000007FD5
-t1292117217
-s32725
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/FlipsideView.xib
-c000000004D11657D000000000005C790
-t1292985725
-s378768
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/InfoPlist.strings
-c000000004D11578800000000000000AC
-t1292982152
-s172
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/Localizable.strings
-c000000004D115F50000000000000033F
-t1292984144
-s831
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/MainView.xib
-c000000004D1165A500000000000068A8
-t1292985765
-s26792
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/MainWindow.xib
-c000000004D0272A3000000000000509C
-t1292006051
-s20636
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/Numbers.plist
-c000000004D115E140000000000000DBE
-t1292983828
-s3518
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/Default.png
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/Default@2x.png
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon-72.png
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon-Small-50.png
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon-Small.png
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon-Small@2x.png
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon.png
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon@2x.png
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Default.png
-c000000004D04401C000000000001CA26
-t1292124188
-s117286
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Default@2x.png
-c000000004D043FE2000000000001F24A
-t1292124130
-s127562
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon-72.png
-c000000004D04250100000000000036E4
-t1292117249
-s14052
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon-Small-50.png
-c000000004D0425690000000000001C3C
-t1292117353
-s7228
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon-Small.png
-c000000004D0425470000000000000A9E
-t1292117319
-s2718
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon-Small@2x.png
-c000000004D04251C00000000000024D9
-t1292117276
-s9433
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon.png
-c000000004D04252F0000000000002378
-t1292117295
-s9080
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon@2x.png
-c000000004D0424E10000000000007FD5
-t1292117217
-s32725
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/iTunesArtwork.png
-c000000004D042388000000000001D589
-t1292116872
-s120201
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Default.png
-c000000004D11679C000000000001BF32
-t1292986268
-s114482
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Default@2x.png
-c000000004D116787000000000001DFA8
-t1292986247
-s122792
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon-72.png
-c000000004D04250100000000000036E4
-t1292117249
-s14052
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon-Small-50.png
-c000000004D0425690000000000001C3C
-t1292117353
-s7228
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon-Small.png
-c000000004D0425470000000000000A9E
-t1292117319
-s2718
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon-Small@2x.png
-c000000004D04251C00000000000024D9
-t1292117276
-s9433
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon.png
-c000000004D04252F0000000000002378
-t1292117295
-s9080
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon@2x.png
-c000000004D0424E10000000000007FD5
-t1292117217
-s32725
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/iTunesArtwork.png
-c000000004D1167DE000000000001C468
-t1292986334
-s115816
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/images/iTunesArtwork.png
-c00000000000000000000000000000000
-t2
-s0
-
-N/Users/Moshe/Development/iOS/Live/Hatzalah/main.m
-c000000004D0272A30000000000000169
-t1292006051
-s361
-i<UIKit/UIKit.h>
-
-N/var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-bwbjldozkblrfuhixpihkexkhwpr/Hatzalah_Prefix.pch.gch
-t1292108571
-s15453392
-
-N/var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-hkmoqiwwjvbsuiffbwlawqhdpvrz/Hatzalah_Prefix.pch.gch
-t1292986574
-s15453392
-
-NHatzalah-Info.plist
-c000000004D1164230000000000000479
-t1292985379
-s1145
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies314679372#314679372#0(0"0(0#1#0"8653279712#0"0#
-
-CCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/FlipsideViewController.o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/FlipsideViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s313801371.591966
-e313801371.683953
-r1
-xCompileC
-xbuild/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/FlipsideViewController.o
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/FlipsideViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@90"Compile /Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/FlipsideViewController.m313801371#313801371#0(0"0(0#0#82"/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/FlipsideViewController.m8606428768#2121"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-generated-files.hmap" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-own-target-headers.hmap" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-all-target-headers.hmap" -iquote "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-project-headers.hmap" "-F/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/include" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources/i386" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources" -include /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-bwbjldozkblrfuhixpihkexkhwpr/Hatzalah_Prefix.pch -c "/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/FlipsideViewController.m" -o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/FlipsideViewController.o"0#
-
-CCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/FlipsideViewController.o /Users/Moshe/Development/iOS/Live/Hatzalah/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s314679374.688388
-e314679374.767579
-r1
-xCompileC
-xbuild/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/FlipsideViewController.o
-x/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/FlipsideViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@83"Compile /Users/Moshe/Development/iOS/Live/Hatzalah/Classes/FlipsideViewController.m314679374#314679374#0(0"0(0#0#75"/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/FlipsideViewController.m8628341440#2022"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-generated-files.hmap -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-own-target-headers.hmap -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-all-target-headers.hmap -iquote /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-project-headers.hmap -F/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/include -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources/i386 -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources -include /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-hkmoqiwwjvbsuiffbwlawqhdpvrz/Hatzalah_Prefix.pch -c /Users/Moshe/Development/iOS/Live/Hatzalah/Classes/FlipsideViewController.m -o /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/FlipsideViewController.o0#
-
-CCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/HatzalahAppDelegate.o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/HatzalahAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s313801371.414367
-e313801371.591870
-r1
-xCompileC
-xbuild/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/HatzalahAppDelegate.o
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/HatzalahAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@87"Compile /Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/HatzalahAppDelegate.m313801371#313801371#0(0"0(0#0#79"/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/HatzalahAppDelegate.m8604063744#2115"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-generated-files.hmap" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-own-target-headers.hmap" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-all-target-headers.hmap" -iquote "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-project-headers.hmap" "-F/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/include" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources/i386" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources" -include /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-bwbjldozkblrfuhixpihkexkhwpr/Hatzalah_Prefix.pch -c "/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/HatzalahAppDelegate.m" -o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/HatzalahAppDelegate.o"0#
-
-CCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/HatzalahAppDelegate.o /Users/Moshe/Development/iOS/Live/Hatzalah/Classes/HatzalahAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s314679374.581171
-e314679374.688278
-r1
-xCompileC
-xbuild/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/HatzalahAppDelegate.o
-x/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/HatzalahAppDelegate.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@80"Compile /Users/Moshe/Development/iOS/Live/Hatzalah/Classes/HatzalahAppDelegate.m314679374#314679374#0(0"0(0#0#72"/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/HatzalahAppDelegate.m8614902016#2016"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-generated-files.hmap -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-own-target-headers.hmap -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-all-target-headers.hmap -iquote /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-project-headers.hmap -F/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/include -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources/i386 -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources -include /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-hkmoqiwwjvbsuiffbwlawqhdpvrz/Hatzalah_Prefix.pch -c /Users/Moshe/Development/iOS/Live/Hatzalah/Classes/HatzalahAppDelegate.m -o /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/HatzalahAppDelegate.o0#
-
-CCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/MainViewController.o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/MainViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s313801371.559106
-e313801371.668451
-r1
-xCompileC
-xbuild/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/MainViewController.o
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/MainViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@86"Compile /Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/MainViewController.m313801371#313801371#0(0"0(0#0#78"/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/MainViewController.m8606964128#2113"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-generated-files.hmap" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-own-target-headers.hmap" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-all-target-headers.hmap" -iquote "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-project-headers.hmap" "-F/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/include" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources/i386" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources" -include /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-bwbjldozkblrfuhixpihkexkhwpr/Hatzalah_Prefix.pch -c "/Users/Moshe/Development/iOS/In Progress/Hatzalah/Classes/MainViewController.m" -o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/MainViewController.o"0#
-
-CCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/MainViewController.o /Users/Moshe/Development/iOS/Live/Hatzalah/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s314679374.666542
-e314679374.790321
-r1
-xCompileC
-xbuild/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/MainViewController.o
-x/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/MainViewController.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@79"Compile /Users/Moshe/Development/iOS/Live/Hatzalah/Classes/MainViewController.m314679374#314679374#0(0"0(0#0#71"/Users/Moshe/Development/iOS/Live/Hatzalah/Classes/MainViewController.m8652992960#2014"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-generated-files.hmap -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-own-target-headers.hmap -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-all-target-headers.hmap -iquote /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-project-headers.hmap -F/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/include -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources/i386 -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources -include /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-hkmoqiwwjvbsuiffbwlawqhdpvrz/Hatzalah_Prefix.pch -c /Users/Moshe/Development/iOS/Live/Hatzalah/Classes/MainViewController.m -o /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/MainViewController.o0#
-
-CCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/SettingsView.o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/SettingsView.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s313810365.076174
-e313810367.314540
-r1
-xCompileC
-xbuild/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/SettingsView.o
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/SettingsView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@72"Compile /Users/Moshe/Development/iOS/In Progress/Hatzalah/SettingsView.m313810365#313810367#0(0"0(0#0#64"/Users/Moshe/Development/iOS/In Progress/Hatzalah/SettingsView.m8613125920#2093"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-generated-files.hmap" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-own-target-headers.hmap" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-all-target-headers.hmap" -iquote "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-project-headers.hmap" "-F/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/include" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources/i386" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources" -include /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-bwbjldozkblrfuhixpihkexkhwpr/Hatzalah_Prefix.pch -c "/Users/Moshe/Development/iOS/In Progress/Hatzalah/SettingsView.m" -o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/SettingsView.o"0#
-
-CCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/SettingsView.o /Users/Moshe/Development/iOS/Live/Hatzalah/SettingsView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s314679374.767676
-e314679374.851376
-r1
-xCompileC
-xbuild/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/SettingsView.o
-x/Users/Moshe/Development/iOS/Live/Hatzalah/SettingsView.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@65"Compile /Users/Moshe/Development/iOS/Live/Hatzalah/SettingsView.m314679374#314679374#0(0"0(0#0#57"/Users/Moshe/Development/iOS/Live/Hatzalah/SettingsView.m8624658528#1994"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-generated-files.hmap -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-own-target-headers.hmap -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-all-target-headers.hmap -iquote /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-project-headers.hmap -F/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/include -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources/i386 -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources -include /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-hkmoqiwwjvbsuiffbwlawqhdpvrz/Hatzalah_Prefix.pch -c /Users/Moshe/Development/iOS/Live/Hatzalah/SettingsView.m -o /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/SettingsView.o0#
-
-CCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/main.o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
-s313801371.413365
-e313801371.559014
-r1
-xCompileC
-xbuild/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/main.o
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@64"Compile /Users/Moshe/Development/iOS/In Progress/Hatzalah/main.m313801371#313801371#0(0"0(0#0#56"/Users/Moshe/Development/iOS/In Progress/Hatzalah/main.m8604912288#2077"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-generated-files.hmap" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-own-target-headers.hmap" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-all-target-headers.hmap" -iquote "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-project-headers.hmap" "-F/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/include" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources/i386" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources" -include /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-bwbjldozkblrfuhixpihkexkhwpr/Hatzalah_Prefix.pch -c "/Users/Moshe/Development/iOS/In Progress/Hatzalah/main.m" -o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/main.o"0#
-
-CCompileC build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/main.o /Users/Moshe/Development/iOS/Live/Hatzalah/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s314679374.579684
-e314679374.666442
-r1
-xCompileC
-xbuild/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/main.o
-x/Users/Moshe/Development/iOS/Live/Hatzalah/main.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@57"Compile /Users/Moshe/Development/iOS/Live/Hatzalah/main.m314679374#314679374#0(0"0(0#0#49"/Users/Moshe/Development/iOS/Live/Hatzalah/main.m8616896224#1978"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-generated-files.hmap -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-own-target-headers.hmap -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-all-target-headers.hmap -iquote /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-project-headers.hmap -F/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/include -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources/i386 -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources -include /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-hkmoqiwwjvbsuiffbwlawqhdpvrz/Hatzalah_Prefix.pch -c /Users/Moshe/Development/iOS/Live/Hatzalah/main.m -o /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/main.o0#
-
-CCompileXIB "/Users/Moshe/Development/iOS/In Progress/Hatzalah/FlipsideView.xib"
-s313810354.864863
-e313810365.074948
-r1
-xCompileXIB
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/FlipsideView.xib
-lSLF07#2@27"CompileXIB FlipsideView.xib313810354#313810365#0(0"0(0#0#66"/Users/Moshe/Development/iOS/In Progress/Hatzalah/FlipsideView.xib8604361568#614"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/FlipsideView.nib" "/Users/Moshe/Development/iOS/In Progress/Hatzalah/FlipsideView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB "/Users/Moshe/Development/iOS/In Progress/Hatzalah/MainView.xib"
-s313801369.483454
-e313801369.996032
-r1
-xCompileXIB
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/MainView.xib
-oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
-lSLF07#2@23"CompileXIB MainView.xib313801369#313801369#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#62"/Users/Moshe/Development/iOS/In Progress/Hatzalah/MainView.xib8606316960#606"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/MainView.nib" "/Users/Moshe/Development/iOS/In Progress/Hatzalah/MainView.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB "/Users/Moshe/Development/iOS/In Progress/Hatzalah/MainWindow.xib"
-s313801369.980387
-e313801370.382679
-r1
-xCompileXIB
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib313801369#313801370#0(0"0(0#0#64"/Users/Moshe/Development/iOS/In Progress/Hatzalah/MainWindow.xib8604893536#610"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/MainWindow.nib" "/Users/Moshe/Development/iOS/In Progress/Hatzalah/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/FlipsideView.xib
-s314678274.105233
-e314678274.739981
-r1
-xCompileXIB
-x/Users/Moshe/Development/iOS/Live/Hatzalah/FlipsideView.xib
-lSLF07#2@27"CompileXIB FlipsideView.xib314678274#314678274#0(0"0(0#0#59"/Users/Moshe/Development/iOS/Live/Hatzalah/FlipsideView.xib8625638592#587"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/FlipsideView.nib /Users/Moshe/Development/iOS/Live/Hatzalah/FlipsideView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/MainView.xib
-s314678274.107329
-e314678274.751304
-r1
-xCompileXIB
-x/Users/Moshe/Development/iOS/Live/Hatzalah/MainView.xib
-lSLF07#2@23"CompileXIB MainView.xib314678274#314678274#0(0"0(0#0#55"/Users/Moshe/Development/iOS/Live/Hatzalah/MainView.xib8625467808#579"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/MainView.nib /Users/Moshe/Development/iOS/Live/Hatzalah/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/MainWindow.xib
-s314678274.740071
-e314678275.305235
-r1
-xCompileXIB
-x/Users/Moshe/Development/iOS/Live/Hatzalah/MainWindow.xib
-lSLF07#2@25"CompileXIB MainWindow.xib314678274#314678275#0(0"0(0#0#57"/Users/Moshe/Development/iOS/Live/Hatzalah/MainWindow.xib8625569920#583"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/MainWindow.nib /Users/Moshe/Development/iOS/Live/Hatzalah/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/FlipsideView.xib
-s314679372.275902
-e314679372.786260
-r1
-xCompileXIB
-x/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/FlipsideView.xib
-lSLF07#2@36"CompileXIB en.lproj/FlipsideView.xib314679372#314679372#0(0"0(0#0#68"/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/FlipsideView.xib8653106464#605"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/FlipsideView.nib /Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/FlipsideView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/MainView.xib
-s314679372.827601
-e314679373.401383
-r1
-xCompileXIB
-x/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/MainView.xib
-lSLF07#2@32"CompileXIB en.lproj/MainView.xib314679372#314679373#0(0"0(0#0#64"/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/MainView.xib8627455808#597"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/MainView.nib /Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/MainWindow.xib
-s314679373.401488
-e314679373.836361
-r1
-xCompileXIB
-x/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/MainWindow.xib
-lSLF07#2@34"CompileXIB en.lproj/MainWindow.xib314679373#314679373#0(0"0(0#0#66"/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/MainWindow.xib8627073408#601"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/MainWindow.nib /Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/FlipsideView.xib
-s314679372.244518
-e314679372.827513
-r1
-xCompileXIB
-x/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/FlipsideView.xib
-lSLF07#2@36"CompileXIB he.lproj/FlipsideView.xib314679372#314679372#0(0"0(0#0#68"/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/FlipsideView.xib8607835904#605"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/FlipsideView.nib /Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/FlipsideView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/MainView.xib
-s314679372.786352
-e314679373.303145
-r1
-xCompileXIB
-x/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/MainView.xib
-lSLF07#2@32"CompileXIB he.lproj/MainView.xib314679372#314679373#0(0"0(0#0#64"/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/MainView.xib8627881408#597"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/MainView.nib /Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCompileXIB /Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/MainWindow.xib
-s314679373.303237
-e314679373.745917
-r1
-xCompileXIB
-x/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/MainWindow.xib
-lSLF07#2@34"CompileXIB he.lproj/MainWindow.xib314679373#314679373#0(0"0(0#0#66"/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/MainWindow.xib8654425344#601"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/MainWindow.nib /Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
-
-CCopyPlistFile "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Numbers.plist" Numbers.plist
-s313810354.921280
-e313810358.934287
-r1
-xCopyPlistFile
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Numbers.plist
-xNumbers.plist
-lSLF07#2@18"Copy Numbers.plist313810354#313810358#0(0"0(0#0#63"/Users/Moshe/Development/iOS/In Progress/Hatzalah/Numbers.plist8617334912#415"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 Numbers.plist --outdir "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app"0#
-
-CCopyPlistFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Numbers.plist en.lproj/Numbers.plist
-s314679372.128381
-e314679372.193054
-r1
-xCopyPlistFile
-x/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Numbers.plist
-xen.lproj/Numbers.plist
-lSLF07#2@27"Copy en.lproj/Numbers.plist314679372#314679372#0(0"0(0#0#65"/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/Numbers.plist8621641088#415"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 en.lproj/Numbers.plist --outdir /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj0#
-
-CCopyPlistFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Numbers.plist he.lproj/Numbers.plist
-s314679372.130284
-e314679372.168450
-r1
-xCopyPlistFile
-x/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Numbers.plist
-xhe.lproj/Numbers.plist
-lSLF07#2@27"Copy he.lproj/Numbers.plist314679372#314679372#0(0"0(0#0#65"/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/Numbers.plist8619919872#415"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 he.lproj/Numbers.plist --outdir /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj0#
-
-CCopyStringsFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Localizable.strings Localizable.strings
-r0
-
-CCopyStringsFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Localizable.strings he.lproj/Localizable.strings
-r0
-
-CCopyStringsFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/InfoPlist.strings en.lproj/InfoPlist.strings
-s314679372.170325
-e314679372.210557
-r1
-xCopyStringsFile
-x/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/InfoPlist.strings
-xen.lproj/InfoPlist.strings
-lSLF07#2@31"Copy en.lproj/InfoPlist.strings314679372#314679372#0(0"0(0#0#69"/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/InfoPlist.strings8617688736#492"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/InfoPlist.strings --outdir /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj0#
-
-CCopyStringsFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Localizable.strings en.lproj/Localizable.strings
-s314679372.210655
-e314679372.244425
-r1
-xCopyStringsFile
-x/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Localizable.strings
-xen.lproj/Localizable.strings
-lSLF07#2@33"Copy en.lproj/Localizable.strings314679372#314679372#0(0"0(0#0#71"/Users/Moshe/Development/iOS/Live/Hatzalah/en.lproj/Localizable.strings8614728096#494"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary en.lproj/Localizable.strings --outdir /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj0#
-
-CCopyStringsFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/InfoPlist.strings he.lproj/InfoPlist.strings
-s314679372.193148
-e314679372.228680
-r1
-xCopyStringsFile
-x/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/InfoPlist.strings
-xhe.lproj/InfoPlist.strings
-lSLF07#2@31"Copy he.lproj/InfoPlist.strings314679372#314679372#0(0"0(0#0#69"/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/InfoPlist.strings8616011200#492"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary he.lproj/InfoPlist.strings --outdir /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj0#
-
-CCopyStringsFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Localizable.strings he.lproj/Localizable.strings
-s314679372.228775
-e314679372.275821
-r1
-xCopyStringsFile
-x/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Localizable.strings
-xhe.lproj/Localizable.strings
-lSLF07#2@33"Copy he.lproj/Localizable.strings314679372#314679372#0(0"0(0#0#71"/Users/Moshe/Development/iOS/Live/Hatzalah/he.lproj/Localizable.strings8614536128#494"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary he.lproj/Localizable.strings --outdir /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Default.png images/Default.png
-s314678274.765166
-e314678274.780292
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/Default.png
-ximages/Default.png
-lSLF07#2@23"Copy images/Default.png314678274#314678274#0(0"0(0#0#61"/Users/Moshe/Development/iOS/Live/Hatzalah/images/Default.png8617135136#489"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/Default.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Default@2x.png images/Default@2x.png
-s314678274.763436
-e314678274.773793
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/Default@2x.png
-ximages/Default@2x.png
-lSLF07#2@26"Copy images/Default@2x.png314678274#314678274#0(0"0(0#0#64"/Users/Moshe/Development/iOS/Live/Hatzalah/images/Default@2x.png8617461888#492"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/Default@2x.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/IMG_0241.PNG IMG_0241.PNG
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Icon-72.png en.lproj/images/Icon-72.png
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Icon-72.png images/Icon-72.png
-s314678274.753282
-e314678274.767361
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/Icon-72.png
-ximages/Icon-72.png
-lSLF07#2@23"Copy images/Icon-72.png314678274#314678274#0(0"0(0#0#61"/Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon-72.png8623307168#489"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon-72.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Icon-Small-50.png en.lproj/images/Icon-Small-50.png
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Icon-Small-50.png images/Icon-Small-50.png
-s314678274.754398
-e314678274.767469
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/Icon-Small-50.png
-ximages/Icon-Small-50.png
-lSLF07#2@29"Copy images/Icon-Small-50.png314678274#314678274#0(0"0(0#0#67"/Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon-Small-50.png8620287904#495"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon-Small-50.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Icon-Small.png en.lproj/images/Icon-Small.png
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Icon-Small.png images/Icon-Small.png
-s314678274.756070
-e314678274.769748
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/Icon-Small.png
-ximages/Icon-Small.png
-lSLF07#2@26"Copy images/Icon-Small.png314678274#314678274#0(0"0(0#0#64"/Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon-Small.png8619583296#492"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon-Small.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Icon-Small@2x.png en.lproj/images/Icon-Small@2x.png
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Icon-Small@2x.png images/Icon-Small@2x.png
-s314678274.757800
-e314678274.767575
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/Icon-Small@2x.png
-ximages/Icon-Small@2x.png
-lSLF07#2@29"Copy images/Icon-Small@2x.png314678274#314678274#0(0"0(0#0#67"/Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon-Small@2x.png8618618848#495"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon-Small@2x.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Icon.png en.lproj/images/Icon.png
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Icon.png images/Icon.png
-s314678274.759810
-e314678274.780151
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/Icon.png
-ximages/Icon.png
-lSLF07#2@20"Copy images/Icon.png314678274#314678274#0(0"0(0#0#58"/Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon.png8618147680#486"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Icon@2x.png en.lproj/images/Icon@2x.png
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Icon@2x.png images/Icon@2x.png
-s314678274.761591
-e314678274.773663
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/Icon@2x.png
-ximages/Icon@2x.png
-lSLF07#2@23"Copy images/Icon@2x.png314678274#314678274#0(0"0(0#0#61"/Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon@2x.png8617984512#489"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/Icon@2x.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/Settings.bundle Settings.bundle
-s314679372.168542
-e314679372.177932
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/Settings.bundle
-xSettings.bundle
-lSLF07#2@20"Copy Settings.bundle314679372#314679372#0(0"0(0#0#58"/Users/Moshe/Development/iOS/Live/Hatzalah/Settings.bundle8618112288#486"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/Settings.bundle /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Default.png images/en.lproj/Default.png
-s314679373.767431
-e314679373.781718
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/en.lproj/Default.png
-ximages/en.lproj/Default.png
-lSLF07#2@32"Copy images/en.lproj/Default.png314679373#314679373#0(0"0(0#0#70"/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Default.png8617756416#507"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Default.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Default@2x.png images/en.lproj/Default@2x.png
-s314679373.772443
-e314679373.786325
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/en.lproj/Default@2x.png
-ximages/en.lproj/Default@2x.png
-lSLF07#2@35"Copy images/en.lproj/Default@2x.png314679373#314679373#0(0"0(0#0#73"/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Default@2x.png8606275872#510"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Default@2x.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-72.png en.lproj/Icon-72.png
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-72.png images/en.lproj/Icon-72.png
-s314679373.746115
-e314679373.759404
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-72.png
-ximages/en.lproj/Icon-72.png
-lSLF07#2@32"Copy images/en.lproj/Icon-72.png314679373#314679373#0(0"0(0#0#70"/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon-72.png8625948000#507"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon-72.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small-50.png en.lproj/Icon-Small-50.png
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small-50.png images/en.lproj/Icon-Small-50.png
-s314679373.747960
-e314679373.759637
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small-50.png
-ximages/en.lproj/Icon-Small-50.png
-lSLF07#2@38"Copy images/en.lproj/Icon-Small-50.png314679373#314679373#0(0"0(0#0#76"/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon-Small-50.png8596627968#513"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon-Small-50.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small.png en.lproj/Icon-Small.png
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small.png images/en.lproj/Icon-Small.png
-s314679373.750295
-e314679373.765458
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small.png
-ximages/en.lproj/Icon-Small.png
-lSLF07#2@35"Copy images/en.lproj/Icon-Small.png314679373#314679373#0(0"0(0#0#73"/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon-Small.png8629037056#510"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon-Small.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small@2x.png en.lproj/Icon-Small@2x.png
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small@2x.png images/en.lproj/Icon-Small@2x.png
-s314679373.753853
-e314679373.769293
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon-Small@2x.png
-ximages/en.lproj/Icon-Small@2x.png
-lSLF07#2@38"Copy images/en.lproj/Icon-Small@2x.png314679373#314679373#0(0"0(0#0#76"/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon-Small@2x.png8628133696#513"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon-Small@2x.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon.png en.lproj/Icon.png
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon.png images/en.lproj/Icon.png
-s314679373.757362
-e314679373.772369
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon.png
-ximages/en.lproj/Icon.png
-lSLF07#2@29"Copy images/en.lproj/Icon.png314679373#314679373#0(0"0(0#0#67"/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon.png8627494912#504"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon@2x.png en.lproj/Icon@2x.png
-r0
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon@2x.png images/en.lproj/Icon@2x.png
-s314679373.761480
-e314679373.799966
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/en.lproj/Icon@2x.png
-ximages/en.lproj/Icon@2x.png
-lSLF07#2@32"Copy images/en.lproj/Icon@2x.png314679373#314679373#0(0"0(0#0#70"/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon@2x.png8625182016#507"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/Icon@2x.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/en.lproj/iTunesArtwork.png images/en.lproj/iTunesArtwork.png
-s314679373.776854
-e314679373.795306
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/en.lproj/iTunesArtwork.png
-ximages/en.lproj/iTunesArtwork.png
-lSLF07#2@38"Copy images/en.lproj/iTunesArtwork.png314679373#314679373#0(0"0(0#0#76"/Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/iTunesArtwork.png8623726528#513"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/en.lproj/iTunesArtwork.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/en.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Default.png images/he.lproj/Default.png
-s314679373.765652
-e314679373.794219
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/he.lproj/Default.png
-ximages/he.lproj/Default.png
-lSLF07#2@32"Copy images/he.lproj/Default.png314679373#314679373#0(0"0(0#0#70"/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Default.png8619585696#507"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Default.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Default@2x.png images/he.lproj/Default@2x.png
-s314679373.769368
-e314679373.784963
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/he.lproj/Default@2x.png
-ximages/he.lproj/Default@2x.png
-lSLF07#2@35"Copy images/he.lproj/Default@2x.png314679373#314679373#0(0"0(0#0#73"/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Default@2x.png8610458688#510"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Default@2x.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-72.png images/he.lproj/Icon-72.png
-s314679373.746984
-e314679373.759524
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-72.png
-ximages/he.lproj/Icon-72.png
-lSLF07#2@32"Copy images/he.lproj/Icon-72.png314679373#314679373#0(0"0(0#0#70"/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon-72.png8618478336#507"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon-72.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-Small-50.png images/he.lproj/Icon-Small-50.png
-s314679373.748651
-e314679373.778927
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-Small-50.png
-ximages/he.lproj/Icon-Small-50.png
-lSLF07#2@38"Copy images/he.lproj/Icon-Small-50.png314679373#314679373#0(0"0(0#0#76"/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon-Small-50.png8654532832#513"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon-Small-50.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-Small.png images/he.lproj/Icon-Small.png
-s314679373.752058
-e314679373.765582
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-Small.png
-ximages/he.lproj/Icon-Small.png
-lSLF07#2@35"Copy images/he.lproj/Icon-Small.png314679373#314679373#0(0"0(0#0#73"/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon-Small.png8628589760#510"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon-Small.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-Small@2x.png images/he.lproj/Icon-Small@2x.png
-s314679373.755618
-e314679373.776778
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon-Small@2x.png
-ximages/he.lproj/Icon-Small@2x.png
-lSLF07#2@38"Copy images/he.lproj/Icon-Small@2x.png314679373#314679373#0(0"0(0#0#76"/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon-Small@2x.png8627741376#513"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon-Small@2x.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon.png images/he.lproj/Icon.png
-s314679373.759708
-e314679373.772237
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon.png
-ximages/he.lproj/Icon.png
-lSLF07#2@29"Copy images/he.lproj/Icon.png314679373#314679373#0(0"0(0#0#67"/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon.png8626750496#504"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon@2x.png images/he.lproj/Icon@2x.png
-s314679373.763553
-e314679373.794423
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/he.lproj/Icon@2x.png
-ximages/he.lproj/Icon@2x.png
-lSLF07#2@32"Copy images/he.lproj/Icon@2x.png314679373#314679373#0(0"0(0#0#70"/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon@2x.png8624129408#507"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/Icon@2x.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/he.lproj/iTunesArtwork.png images/he.lproj/iTunesArtwork.png
-s314679373.774909
-e314679373.789753
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/he.lproj/iTunesArtwork.png
-ximages/he.lproj/iTunesArtwork.png
-lSLF07#2@38"Copy images/he.lproj/iTunesArtwork.png314679373#314679373#0(0"0(0#0#76"/Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/iTunesArtwork.png8624671936#513"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/he.lproj/iTunesArtwork.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/he.lproj0#
-
-CCpResource build/Debug-iphonesimulator/Hatzalah.app/iTunesArtwork.png images/iTunesArtwork.png
-s314678274.751427
-e314678274.767241
-r1
-xCpResource
-xbuild/Debug-iphonesimulator/Hatzalah.app/iTunesArtwork.png
-ximages/iTunesArtwork.png
-lSLF07#2@29"Copy images/iTunesArtwork.png314678274#314678274#0(0"0(0#0#67"/Users/Moshe/Development/iOS/Live/Hatzalah/images/iTunesArtwork.png8625380128#495"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Moshe/Development/iOS/Live/Hatzalah/images/iTunesArtwork.png /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app0#
-
-CGenerateDSYMFile "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app.dSYM" "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah"
-s313810368.562547
-e313810368.699650
-r1
-xGenerateDSYMFile
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app.dSYM
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah
-lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Hatzalah.app.dSYM build/Debug-iphonesimulator/Hatzalah.app/Hatzalah313810368#313810368#0(0"0(0#0#99"/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah8610193856#425"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah" -o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app.dSYM"0#
-
-CGenerateDSYMFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app.dSYM /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah
-s314679374.877881
-e314679374.921130
-r1
-xGenerateDSYMFile
-x/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app.dSYM
-x/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah
-lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/Hatzalah.app.dSYM build/Debug-iphonesimulator/Hatzalah.app/Hatzalah314679374#314679374#0(0"0(0#0#92"/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah8619882208#398"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah -o /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app.dSYM0#
-
-CLd "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah" normal i386
-s313810367.314749
-e313810368.562441
-r1
-xLd
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah
-xnormal
-xi386
-lSLF07#2@104"Link /Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah313810367#313810368#0(0"0(0#0#0"8614008224#970"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator" "-F/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator" -filelist "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/Hatzalah.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah"0#
-
-CLd /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah normal i386
-s314679374.851481
-e314679374.877776
-r1
-xLd
-x/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah
-xnormal
-xi386
-lSLF07#2@97"Link /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah314679374#314679374#0(0"0(0#0#0"8622710816#925"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator -F/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator -filelist /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Objects-normal/i386/Hatzalah.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Hatzalah0#
-
-CProcessInfoPlistFile "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Info.plist" Hatzalah-Info.plist
-s313810354.725642
-e313810354.864766
-r1
-xProcessInfoPlistFile
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Info.plist
-xHatzalah-Info.plist
-lSLF07#2@27"Process Hatzalah-Info.plist313810354#313810354#0(0"0(0#0#69"/Users/Moshe/Development/iOS/In Progress/Hatzalah/Hatzalah-Info.plist7521412018607513600#521"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Hatzalah-Info.plist -genpkginfo "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Info.plist"0#
-
-CProcessInfoPlistFile /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Info.plist Hatzalah-Info.plist
-s314679372.119122
-e314679372.128279
-r1
-xProcessInfoPlistFile
-x/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Info.plist
-xHatzalah-Info.plist
-lSLF07#2@27"Process Hatzalah-Info.plist314679372#314679372#0(0"0(0#0#62"/Users/Moshe/Development/iOS/Live/Hatzalah/Hatzalah-Info.plist8625000448#494"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Hatzalah-Info.plist -genpkginfo /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app/Info.plist0#
-
-CProcessPCH /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-bwbjldozkblrfuhixpihkexkhwpr/Hatzalah_Prefix.pch.gch Hatzalah_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s313801370.382818
-e313801371.413221
-r1
-xProcessPCH
-x/var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-bwbjldozkblrfuhixpihkexkhwpr/Hatzalah_Prefix.pch.gch
-xHatzalah_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@30"Precompile Hatzalah_Prefix.pch313801370#313801371#0(0"0(0#0#69"/Users/Moshe/Development/iOS/In Progress/Hatzalah/Hatzalah_Prefix.pch8606331520#1955"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-generated-files.hmap" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-own-target-headers.hmap" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-all-target-headers.hmap" -iquote "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-project-headers.hmap" "-F/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/include" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources/i386" "-I/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources" -c "/Users/Moshe/Development/iOS/In Progress/Hatzalah/Hatzalah_Prefix.pch" -o /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-bwbjldozkblrfuhixpihkexkhwpr/Hatzalah_Prefix.pch.gch0#
-
-CProcessPCH /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-hkmoqiwwjvbsuiffbwlawqhdpvrz/Hatzalah_Prefix.pch.gch Hatzalah_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
-s314679373.836482
-e314679374.579428
-r1
-xProcessPCH
-x/var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-hkmoqiwwjvbsuiffbwlawqhdpvrz/Hatzalah_Prefix.pch.gch
-xHatzalah_Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@30"Precompile Hatzalah_Prefix.pch314679373#314679374#0(0"0(0#0#62"/Users/Moshe/Development/iOS/Live/Hatzalah/Hatzalah_Prefix.pch8622242912#1865"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-generated-files.hmap -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-own-target-headers.hmap -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-all-target-headers.hmap -iquote /Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/Hatzalah-project-headers.hmap -F/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/include -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources/i386 -I/Users/Moshe/Development/iOS/Live/Hatzalah/build/Hatzalah.build/Debug-iphonesimulator/Hatzalah.build/DerivedSources -c /Users/Moshe/Development/iOS/Live/Hatzalah/Hatzalah_Prefix.pch -o /var/folders/J6/J6YWIyPTGSmNi1bacyrv1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Hatzalah_Prefix-hkmoqiwwjvbsuiffbwlawqhdpvrz/Hatzalah_Prefix.pch.gch0#
-
-CTouch "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app"
-s313810368.699740
-e313810368.781055
-r1
-xTouch
-x/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app
-lSLF07#2@96"Touch /Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app313810368#313810368#0(0"0(0#0#0"8609186720#305"    cd "/Users/Moshe/Development/iOS/In Progress/Hatzalah"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Moshe/Development/iOS/In Progress/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app"0#
-
-CTouch /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app
-s314679374.921218
-e314679374.928470
-r1
-xTouch
-x/Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app
-lSLF07#2@89"Touch /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app314679374#314679374#0(0"0(0#0#0"8614806336#287"    cd /Users/Moshe/Development/iOS/Live/Hatzalah    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/Moshe/Development/iOS/Live/Hatzalah/build/Debug-iphonesimulator/Hatzalah.app0#
-
