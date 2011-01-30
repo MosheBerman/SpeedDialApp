@@ -1,0 +1,451 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* SpeedDialAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* SpeedDialAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765590DF743DE002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765580DF743DE002DB57D /* CoreGraphics.framework */; };
+		289233AE0DB2D0DB0083E9F9 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */; };
+		289233B00DB2D0DB0083E9F9 /* FlipsideViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */; };
+		460CBB0112CA7F59008C1093 /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 460CBAF712CA7F59008C1093 /* Default.png */; };
+		460CBB0312CA7F59008C1093 /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 460CBAF912CA7F59008C1093 /* Default@2x.png */; };
+		460CBB0412CA7F59008C1093 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 460CBAFA12CA7F59008C1093 /* Icon-72.png */; };
+		460CBB0512CA7F59008C1093 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 460CBAFB12CA7F59008C1093 /* Icon-Small-50.png */; };
+		460CBB0612CA7F59008C1093 /* Icon-Small.png in Resources */ = {isa = PBXBuildFile; fileRef = 460CBAFC12CA7F59008C1093 /* Icon-Small.png */; };
+		460CBB0712CA7F59008C1093 /* Icon-Small@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 460CBAFD12CA7F59008C1093 /* Icon-Small@2x.png */; };
+		460CBB0812CA7F59008C1093 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 460CBAFE12CA7F59008C1093 /* Icon.png */; };
+		460CBB0912CA7F59008C1093 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 460CBAFF12CA7F59008C1093 /* Icon@2x.png */; };
+		460CBB0A12CA7F59008C1093 /* iTunesArtwork.png in Resources */ = {isa = PBXBuildFile; fileRef = 460CBB0012CA7F59008C1093 /* iTunesArtwork.png */; };
+		46275CF312C51F0F00E519D7 /* Numbers_rev_2.plist in Resources */ = {isa = PBXBuildFile; fileRef = 46275CF112C51F0F00E519D7 /* Numbers_rev_2.plist */; };
+		4697560D12C18D1C00E86E8F /* Settings.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 4697560C12C18D1C00E86E8F /* Settings.bundle */; };
+		4697562812C18E3C00E86E8F /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4697562612C18E3C00E86E8F /* InfoPlist.strings */; };
+		4697565A12C18F8400E86E8F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4697565812C18F8400E86E8F /* Localizable.strings */; };
+		4697579812C19D7100E86E8F /* FlipsideView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4697579212C19D7100E86E8F /* FlipsideView.xib */; };
+		4697579912C19D7100E86E8F /* MainView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4697579412C19D7100E86E8F /* MainView.xib */; };
+		4697579A12C19D7100E86E8F /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4697579612C19D7100E86E8F /* MainWindow.xib */; };
+		46CD911012B2AA480049E818 /* SettingsView.m in Sources */ = {isa = PBXBuildFile; fileRef = 46CD910F12B2AA480049E818 /* SettingsView.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* SpeedDialAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpeedDialAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* SpeedDialAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SpeedDialAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* SpeedDialApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SpeedDialApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765580DF743DE002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		289233A80DB2D0DB0083E9F9 /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MainViewController.h; path = Classes/MainViewController.h; sourceTree = "<group>"; };
+		289233A90DB2D0DB0083E9F9 /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MainViewController.m; path = Classes/MainViewController.m; sourceTree = "<group>"; };
+		289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = FlipsideViewController.h; path = Classes/FlipsideViewController.h; sourceTree = "<group>"; };
+		289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = FlipsideViewController.m; path = Classes/FlipsideViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* SpeedDialApp_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SpeedDialApp_Prefix.pch; sourceTree = "<group>"; };
+		460CBAF712CA7F59008C1093 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = images/final/Default.png; sourceTree = "<group>"; };
+		460CBAF912CA7F59008C1093 /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "images/final/Default@2x.png"; sourceTree = "<group>"; };
+		460CBAFA12CA7F59008C1093 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "images/final/Icon-72.png"; sourceTree = "<group>"; };
+		460CBAFB12CA7F59008C1093 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small-50.png"; path = "images/final/Icon-Small-50.png"; sourceTree = "<group>"; };
+		460CBAFC12CA7F59008C1093 /* Icon-Small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small.png"; path = "images/final/Icon-Small.png"; sourceTree = "<group>"; };
+		460CBAFD12CA7F59008C1093 /* Icon-Small@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-Small@2x.png"; path = "images/final/Icon-Small@2x.png"; sourceTree = "<group>"; };
+		460CBAFE12CA7F59008C1093 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = images/final/Icon.png; sourceTree = "<group>"; };
+		460CBAFF12CA7F59008C1093 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon@2x.png"; path = "images/final/Icon@2x.png"; sourceTree = "<group>"; };
+		460CBB0012CA7F59008C1093 /* iTunesArtwork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iTunesArtwork.png; path = images/final/iTunesArtwork.png; sourceTree = "<group>"; };
+		46275CF212C51F0F00E519D7 /* he */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = he; path = he.lproj/Numbers_rev_2.plist; sourceTree = "<group>"; };
+		46275CF412C51F1900E519D7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = en; path = en.lproj/Numbers_rev_2.plist; sourceTree = "<group>"; };
+		4697560C12C18D1C00E86E8F /* Settings.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = Settings.bundle; sourceTree = "<group>"; };
+		4697562712C18E3C00E86E8F /* en */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		4697562D12C18E6300E86E8F /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		4697565912C18F8400E86E8F /* en */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		4697570E12C1960C00E86E8F /* he */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = he; path = he.lproj/Localizable.strings; sourceTree = "<group>"; };
+		4697579312C19D7100E86E8F /* he */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = he; path = he.lproj/FlipsideView.xib; sourceTree = "<group>"; };
+		4697579512C19D7100E86E8F /* he */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = he; path = he.lproj/MainView.xib; sourceTree = "<group>"; };
+		4697579712C19D7100E86E8F /* he */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = he; path = he.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		4697579B12C19D7C00E86E8F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/FlipsideView.xib; sourceTree = "<group>"; };
+		4697579C12C19D7C00E86E8F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainView.xib; sourceTree = "<group>"; };
+		4697579D12C19D7C00E86E8F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		46CD910E12B2AA480049E818 /* SettingsView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsView.h; sourceTree = "<group>"; };
+		46CD910F12B2AA480049E818 /* SettingsView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsView.m; sourceTree = "<group>"; };
+		46CD91E012B2BB550049E818 /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = Constants.h; path = Classes/Constants.h; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* SpeedDialApp-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "SpeedDialApp-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765590DF743DE002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Application Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* SpeedDialAppDelegate.h */,
+				1D3623250D0F684500981E51 /* SpeedDialAppDelegate.m */,
+			);
+			name = "Application Delegate";
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* SpeedDialApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		281C6CD70DB2D82200F60ACC /* Flipside View */ = {
+			isa = PBXGroup;
+			children = (
+				289233AC0DB2D0DB0083E9F9 /* FlipsideViewController.h */,
+				289233AD0DB2D0DB0083E9F9 /* FlipsideViewController.m */,
+			);
+			name = "Flipside View";
+			sourceTree = "<group>";
+		};
+		289233A00DB2D0730083E9F9 /* Main View */ = {
+			isa = PBXGroup;
+			children = (
+				289233A80DB2D0DB0083E9F9 /* MainViewController.h */,
+				289233A90DB2D0DB0083E9F9 /* MainViewController.m */,
+				46CD910E12B2AA480049E818 /* SettingsView.h */,
+				46CD910F12B2AA480049E818 /* SettingsView.m */,
+			);
+			name = "Main View";
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				460CBAF712CA7F59008C1093 /* Default.png */,
+				460CBAF912CA7F59008C1093 /* Default@2x.png */,
+				460CBAFA12CA7F59008C1093 /* Icon-72.png */,
+				460CBAFB12CA7F59008C1093 /* Icon-Small-50.png */,
+				460CBAFC12CA7F59008C1093 /* Icon-Small.png */,
+				460CBAFD12CA7F59008C1093 /* Icon-Small@2x.png */,
+				460CBAFE12CA7F59008C1093 /* Icon.png */,
+				460CBAFF12CA7F59008C1093 /* Icon@2x.png */,
+				460CBB0012CA7F59008C1093 /* iTunesArtwork.png */,
+				4697562612C18E3C00E86E8F /* InfoPlist.strings */,
+				4697565812C18F8400E86E8F /* Localizable.strings */,
+				4697560C12C18D1C00E86E8F /* Settings.bundle */,
+				289233A00DB2D0730083E9F9 /* Main View */,
+				281C6CD70DB2D82200F60ACC /* Flipside View */,
+				080E96DDFE201D6D7F000001 /* Application Delegate */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				46CD91E012B2BB550049E818 /* Constants.h */,
+				32CA4F630368D1EE00C91783 /* SpeedDialApp_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				4697579212C19D7100E86E8F /* FlipsideView.xib */,
+				4697579412C19D7100E86E8F /* MainView.xib */,
+				4697579612C19D7100E86E8F /* MainWindow.xib */,
+				8D1107310486CEB800E47090 /* SpeedDialApp-Info.plist */,
+				46275CF112C51F0F00E519D7 /* Numbers_rev_2.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765580DF743DE002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* SpeedDialApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SpeedDialApp" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = SpeedDialApp;
+			productName = Hatzalah;
+			productReference = 1D6058910D05DD3D006BFB54 /* SpeedDialApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SpeedDialApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+				en,
+				he,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* SpeedDialApp */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4697560D12C18D1C00E86E8F /* Settings.bundle in Resources */,
+				4697562812C18E3C00E86E8F /* InfoPlist.strings in Resources */,
+				4697565A12C18F8400E86E8F /* Localizable.strings in Resources */,
+				4697579812C19D7100E86E8F /* FlipsideView.xib in Resources */,
+				4697579912C19D7100E86E8F /* MainView.xib in Resources */,
+				4697579A12C19D7100E86E8F /* MainWindow.xib in Resources */,
+				46275CF312C51F0F00E519D7 /* Numbers_rev_2.plist in Resources */,
+				460CBB0112CA7F59008C1093 /* Default.png in Resources */,
+				460CBB0312CA7F59008C1093 /* Default@2x.png in Resources */,
+				460CBB0412CA7F59008C1093 /* Icon-72.png in Resources */,
+				460CBB0512CA7F59008C1093 /* Icon-Small-50.png in Resources */,
+				460CBB0612CA7F59008C1093 /* Icon-Small.png in Resources */,
+				460CBB0712CA7F59008C1093 /* Icon-Small@2x.png in Resources */,
+				460CBB0812CA7F59008C1093 /* Icon.png in Resources */,
+				460CBB0912CA7F59008C1093 /* Icon@2x.png in Resources */,
+				460CBB0A12CA7F59008C1093 /* iTunesArtwork.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* SpeedDialAppDelegate.m in Sources */,
+				289233AE0DB2D0DB0083E9F9 /* MainViewController.m in Sources */,
+				289233B00DB2D0DB0083E9F9 /* FlipsideViewController.m in Sources */,
+				46CD911012B2AA480049E818 /* SettingsView.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		46275CF112C51F0F00E519D7 /* Numbers_rev_2.plist */ = {
+			isa = PBXVariantGroup;
+			children = (
+				46275CF212C51F0F00E519D7 /* he */,
+				46275CF412C51F1900E519D7 /* en */,
+			);
+			name = Numbers_rev_2.plist;
+			sourceTree = "<group>";
+		};
+		4697562612C18E3C00E86E8F /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4697562712C18E3C00E86E8F /* en */,
+				4697562D12C18E6300E86E8F /* he */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		4697565812C18F8400E86E8F /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4697565912C18F8400E86E8F /* en */,
+				4697570E12C1960C00E86E8F /* he */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		4697579212C19D7100E86E8F /* FlipsideView.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4697579312C19D7100E86E8F /* he */,
+				4697579B12C19D7C00E86E8F /* en */,
+			);
+			name = FlipsideView.xib;
+			sourceTree = "<group>";
+		};
+		4697579412C19D7100E86E8F /* MainView.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4697579512C19D7100E86E8F /* he */,
+				4697579C12C19D7C00E86E8F /* en */,
+			);
+			name = MainView.xib;
+			sourceTree = "<group>";
+		};
+		4697579612C19D7100E86E8F /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4697579712C19D7100E86E8F /* he */,
+				4697579D12C19D7C00E86E8F /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SpeedDialApp_Prefix.pch;
+				INFOPLIST_FILE = "SpeedDialApp-Info.plist";
+				PRODUCT_NAME = SpeedDialApp;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "Don't Code Sign";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SpeedDialApp_Prefix.pch;
+				INFOPLIST_FILE = "SpeedDialApp-Info.plist";
+				PRODUCT_NAME = SpeedDialApp;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		46EEBD0012B46EC700F45799 /* App Store */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+			};
+			name = "App Store";
+		};
+		46EEBD0112B46EC700F45799 /* App Store */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = SpeedDialApp_Prefix.pch;
+				INFOPLIST_FILE = "SpeedDialApp-Info.plist";
+				PRODUCT_NAME = SpeedDialApp;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = "App Store";
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PREBINDING = NO;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CODE_SIGN_IDENTITY = "Don't Code Sign";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "Don't Code Sign";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				PREBINDING = NO;
+				PROVISIONING_PROFILE = "";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "SpeedDialApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				46EEBD0112B46EC700F45799 /* App Store */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "SpeedDialApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				46EEBD0012B46EC700F45799 /* App Store */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

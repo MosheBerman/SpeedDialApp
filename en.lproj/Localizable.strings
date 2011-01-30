@@ -1,0 +1,22 @@
+/* 
+   Localizable.strings
+   Hatzalah
+
+   Created by Moshe Berman on 12/21/10.
+   Copyright 2010 MosheBerman.com. All rights reserved.
+ */
+
+
+"Please select the Hatzalah phone number in your area." = "Please select the Hatzalah phone number in your area.";
+
+"Okay" = "Okay";
+
+"\"Call on launch\" is turned on, but there is no default number set. Please choose a number to call." = "\"Call on launch\" is turned on, but there is no default number set. Please choose a number to call.";
+
+"Choose your emergency number:" = "Choose your emergency number:";
+
+"Please open the Settings application and navigate to \"Hatzalah\". \nFlip the \"Call on Launch\" switch and you will be all set.\n\n To change your local Hatzalah number, flip the switch and relaunch this app." = "Please open the Settings application and navigate to \"Hatzalah\". \nFlip the \"Call on Launch\" switch and you will be all set.\n\n To change your local Hatzalah number, flip the switch and relaunch this app.";
+
+"Step 2:" = "Step 2:";
+
+"Step 1:" = "Step 1:";

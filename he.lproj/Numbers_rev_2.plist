@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>גוגל</string>
+		<string>650-623-4000</string>
+	</array>
+	<array>
+		<string>מיקרוסופט</string>
+		<string>800-642-7676</string>
+	</array>
+	<array>
+		<string>פייסבוק</string>
+		<string>650-543-4800</string>
+	</array>
+</array>
+</plist>

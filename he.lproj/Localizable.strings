@@ -1,0 +1,21 @@
+/* 
+   Localizable.strings
+   Hatzalah
+
+   Created by Moshe Berman on 12/21/10.
+   Copyright 2010 MosheBerman.com. All rights reserved.
+ */
+
+"SelectNumKey" = "אנא בחר את מספר הטלפון הצלה באזור שלך.";
+
+"Okay" = "בסדר";
+
+"\"Call on launch\" is turned on, but there is no default number set. Please choose a number to call." = "\"שיחה על השקת\" מופעלת, אבל אין מספר מוגדר כברירת מחדל. נא לבחור מספר כדי להתקשר.";
+
+"Choose your emergency number:" = "בחר מספר החירום שלך:";
+
+"Please open the Settings application and navigate to \"Hatzalah\". \nFlip the \"Call on Launch\" switch and you will be all set.\n\n To change your local Hatzalah number, flip the switch and relaunch this app." = "נא לפתוח את יישום הגדרות ונווט \"Hatzalah \". להעיף את \"שיחות על השקת \" הבורר ואתה תהיה כל קבוצה. כדי לשנות את המספר המקומי שלך Hatzalah, את המתג ו relaunch ביישום זה.";
+
+"Step 2:" = "שלב 2:";
+
+"Step 1:" = "שלב 1:";

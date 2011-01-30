@@ -1,0 +1,9 @@
+/* 
+   InfoPlist.strings
+   SpeedDialApp
+
+   Created by Moshe Berman on 12/21/10.
+   Copyright 2010 MosheBerman.com. All rights reserved.
+ */
+
+CFBundleDisplayName = "חיוג מהיר";
