@@ -1,0 +1,11 @@
+SpeedDialApp is a commented, open source version of the Hatzalah and Shomrim apps on the App Store.
+
+This code is released for academic purposes only. Use it at your own risk.
+
+A quick note about the numbers:
+
+The app stores numbers in a plist file which must be renamed after each change to ensure that the app uses the new list. A corresponding constant is in "Constants.h" which is used to identify the appropriate file.
+
+AN IMPORTANT NOTE about Code Signing:
+
+Before you try to run this app on a device, make sure that you properly set up code signing and the app bundle ID as necessary.
