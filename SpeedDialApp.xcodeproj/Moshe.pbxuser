@@ -190,45 +190,43 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 318054972;
-			PBXWorkspaceStateSaveDate = 318054972;
+			PBXPerProjectTemplateStateSaveDate = 318099597;
+			PBXWorkspaceStateSaveDate = 318099597;
 		};
 		perUserProjectItems = {
-			460CBAB512CA7E3F008C1093 = 460CBAB512CA7E3F008C1093 /* PlistBookmark */;
-			460CBB1312CA7FE3008C1093 = 460CBB1312CA7FE3008C1093 /* PBXTextBookmark */;
-			460CBB1412CA7FE3008C1093 = 460CBB1412CA7FE3008C1093 /* PBXTextBookmark */;
-			460CBB1512CA7FE3008C1093 = 460CBB1512CA7FE3008C1093 /* PBXTextBookmark */;
-			460CBB1612CA7FE3008C1093 = 460CBB1612CA7FE3008C1093 /* PBXTextBookmark */;
-			46275D4C12C5239100E519D7 = 46275D4C12C5239100E519D7 /* PBXTextBookmark */;
-			46275D4D12C5239100E519D7 = 46275D4D12C5239100E519D7 /* PBXTextBookmark */;
-			46275D4E12C5239100E519D7 = 46275D4E12C5239100E519D7 /* PBXTextBookmark */;
-			46275D5412C5239100E519D7 = 46275D5412C5239100E519D7 /* PBXTextBookmark */;
-			46275D7D12C525CF00E519D7 = 46275D7D12C525CF00E519D7 /* PBXBookmark */;
-			46515B4012F521BC00DD18A3 = 46515B4012F521BC00DD18A3 /* PlistBookmark */;
-			46515B7312F5224B00DD18A3 /* PlistBookmark */ = 46515B7312F5224B00DD18A3 /* PlistBookmark */;
-			4666E26712EF3E7500AA46DA = 4666E26712EF3E7500AA46DA /* PBXBookmark */;
-			4666E26812EF3E7500AA46DA = 4666E26812EF3E7500AA46DA /* PBXBookmark */;
-			4666E26912EF3E7500AA46DA = 4666E26912EF3E7500AA46DA /* PBXBookmark */;
-			4666E26A12EF3E7500AA46DA = 4666E26A12EF3E7500AA46DA /* PBXBookmark */;
-			4666E26B12EF3E7500AA46DA = 4666E26B12EF3E7500AA46DA /* PBXBookmark */;
-			4666E26C12EF3E7500AA46DA = 4666E26C12EF3E7500AA46DA /* PBXBookmark */;
-			4666E26D12EF3E7500AA46DA = 4666E26D12EF3E7500AA46DA /* PBXBookmark */;
-			4666E26E12EF3E7500AA46DA = 4666E26E12EF3E7500AA46DA /* PBXBookmark */;
-			4666E26F12EF3E7500AA46DA = 4666E26F12EF3E7500AA46DA /* PBXBookmark */;
-			4666E27312EF3E7500AA46DA = 4666E27312EF3E7500AA46DA /* PBXTextBookmark */;
-			4666E27412EF3E7500AA46DA = 4666E27412EF3E7500AA46DA /* PBXTextBookmark */;
-			4666E27512EF3E7500AA46DA = 4666E27512EF3E7500AA46DA /* PBXTextBookmark */;
-			4666E27612EF3E7500AA46DA = 4666E27612EF3E7500AA46DA /* PBXTextBookmark */;
-			4666E2AD12EF418100AA46DA = 4666E2AD12EF418100AA46DA /* PBXTextBookmark */;
-			4666E2AE12EF418100AA46DA = 4666E2AE12EF418100AA46DA /* PlistBookmark */;
-			4666E2AF12EF418100AA46DA = 4666E2AF12EF418100AA46DA /* PlistBookmark */;
-			4666E2B012EF418100AA46DA = 4666E2B012EF418100AA46DA /* PBXTextBookmark */;
-			4666E2B112EF418100AA46DA = 4666E2B112EF418100AA46DA /* PBXTextBookmark */;
-			4666E2F312EF422D00AA46DA = 4666E2F312EF422D00AA46DA /* PlistBookmark */;
-			4666E31A12EF461900AA46DA = 4666E31A12EF461900AA46DA /* PlistBookmark */;
-			469756E112C195C900E86E8F = 469756E112C195C900E86E8F /* PBXTextBookmark */;
-			469757F912C1A04F00E86E8F = 469757F912C1A04F00E86E8F /* PBXBookmark */;
-			469757FC12C1A04F00E86E8F = 469757FC12C1A04F00E86E8F /* PBXTextBookmark */;
+			460C5F5E12F5D5CF00164FF1 /* PlistBookmark */ = 460C5F5E12F5D5CF00164FF1 /* PlistBookmark */;
+			460C5F5F12F5D5CF00164FF1 /* PBXBookmark */ = 460C5F5F12F5D5CF00164FF1 /* PBXBookmark */;
+			460C5F6012F5D5CF00164FF1 /* PBXBookmark */ = 460C5F6012F5D5CF00164FF1 /* PBXBookmark */;
+			460C5F6112F5D5CF00164FF1 /* PBXTextBookmark */ = 460C5F6112F5D5CF00164FF1 /* PBXTextBookmark */;
+			460C5F6212F5D5CF00164FF1 /* PBXTextBookmark */ = 460C5F6212F5D5CF00164FF1 /* PBXTextBookmark */;
+			460C5F6312F5D5CF00164FF1 /* PBXTextBookmark */ = 460C5F6312F5D5CF00164FF1 /* PBXTextBookmark */;
+			460CBAB512CA7E3F008C1093 /* PlistBookmark */ = 460CBAB512CA7E3F008C1093 /* PlistBookmark */;
+			460CBB1312CA7FE3008C1093 /* PBXTextBookmark */ = 460CBB1312CA7FE3008C1093 /* PBXTextBookmark */;
+			460CBB1412CA7FE3008C1093 /* PBXTextBookmark */ = 460CBB1412CA7FE3008C1093 /* PBXTextBookmark */;
+			460CBB1512CA7FE3008C1093 /* PBXTextBookmark */ = 460CBB1512CA7FE3008C1093 /* PBXTextBookmark */;
+			460CBB1612CA7FE3008C1093 /* PBXTextBookmark */ = 460CBB1612CA7FE3008C1093 /* PBXTextBookmark */;
+			46275D4C12C5239100E519D7 /* PBXTextBookmark */ = 46275D4C12C5239100E519D7 /* PBXTextBookmark */;
+			46275D4D12C5239100E519D7 /* PBXTextBookmark */ = 46275D4D12C5239100E519D7 /* PBXTextBookmark */;
+			46275D4E12C5239100E519D7 /* PBXTextBookmark */ = 46275D4E12C5239100E519D7 /* PBXTextBookmark */;
+			46275D5412C5239100E519D7 /* PBXTextBookmark */ = 46275D5412C5239100E519D7 /* PBXTextBookmark */;
+			46275D7D12C525CF00E519D7 /* PBXBookmark */ = 46275D7D12C525CF00E519D7 /* PBXBookmark */;
+			4666E26712EF3E7500AA46DA /* PBXBookmark */ = 4666E26712EF3E7500AA46DA /* PBXBookmark */;
+			4666E26A12EF3E7500AA46DA /* PBXBookmark */ = 4666E26A12EF3E7500AA46DA /* PBXBookmark */;
+			4666E26B12EF3E7500AA46DA /* PBXBookmark */ = 4666E26B12EF3E7500AA46DA /* PBXBookmark */;
+			4666E26C12EF3E7500AA46DA /* PBXBookmark */ = 4666E26C12EF3E7500AA46DA /* PBXBookmark */;
+			4666E26D12EF3E7500AA46DA /* PBXBookmark */ = 4666E26D12EF3E7500AA46DA /* PBXBookmark */;
+			4666E26E12EF3E7500AA46DA /* PBXBookmark */ = 4666E26E12EF3E7500AA46DA /* PBXBookmark */;
+			4666E26F12EF3E7500AA46DA /* PBXBookmark */ = 4666E26F12EF3E7500AA46DA /* PBXBookmark */;
+			4666E27312EF3E7500AA46DA /* PBXTextBookmark */ = 4666E27312EF3E7500AA46DA /* PBXTextBookmark */;
+			4666E27412EF3E7500AA46DA /* PBXTextBookmark */ = 4666E27412EF3E7500AA46DA /* PBXTextBookmark */;
+			4666E27612EF3E7500AA46DA /* PBXTextBookmark */ = 4666E27612EF3E7500AA46DA /* PBXTextBookmark */;
+			4666E2AE12EF418100AA46DA /* PlistBookmark */ = 4666E2AE12EF418100AA46DA /* PlistBookmark */;
+			4666E2AF12EF418100AA46DA /* PlistBookmark */ = 4666E2AF12EF418100AA46DA /* PlistBookmark */;
+			4666E2B012EF418100AA46DA /* PBXTextBookmark */ = 4666E2B012EF418100AA46DA /* PBXTextBookmark */;
+			4666E2B112EF418100AA46DA /* PBXTextBookmark */ = 4666E2B112EF418100AA46DA /* PBXTextBookmark */;
+			469756E112C195C900E86E8F /* PBXTextBookmark */ = 469756E112C195C900E86E8F /* PBXTextBookmark */;
+			469757F912C1A04F00E86E8F /* PBXBookmark */ = 469757F912C1A04F00E86E8F /* PBXBookmark */;
+			469757FC12C1A04F00E86E8F /* PBXTextBookmark */ = 469757FC12C1A04F00E86E8F /* PBXTextBookmark */;
 		};
 		sourceControlManager = 46CD910C12B2AA410049E818 /* Source Control */;
 		userBuildSettings = {
@@ -247,6 +245,55 @@
 			sepNavSelRange = "{0, 0}";
 			sepNavVisRange = "{0, 322}";
 		};
+	};
+	460C5F5E12F5D5CF00164FF1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* SpeedDialApp-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/Moshe/Development/iOS/SpeedDialApp/SpeedDialApp-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	460C5F5F12F5D5CF00164FF1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 460CBAFA12CA7F59008C1093 /* Icon-72.png */;
+	};
+	460C5F6012F5D5CF00164FF1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 460CBAF912CA7F59008C1093 /* Default@2x.png */;
+	};
+	460C5F6112F5D5CF00164FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46CD910F12B2AA480049E818 /* SettingsView.m */;
+		name = "SettingsView.m: 150";
+		rLen = 0;
+		rLoc = 3670;
+		rType = 0;
+		vrLen = 1011;
+		vrLoc = 2843;
+	};
+	460C5F6212F5D5CF00164FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46CD910E12B2AA480049E818 /* SettingsView.h */;
+		name = "SettingsView.h: 12";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 343;
+		vrLoc = 0;
+	};
+	460C5F6312F5D5CF00164FF1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46CD910E12B2AA480049E818 /* SettingsView.h */;
+		name = "SettingsView.h: 12";
+		rLen = 0;
+		rLoc = 236;
+		rType = 0;
+		vrLen = 322;
+		vrLoc = 0;
 	};
 	460CBAB512CA7E3F008C1093 /* PlistBookmark */ = {
 		isa = PlistBookmark;
@@ -352,39 +399,9 @@
 		path = /Users/Moshe/Development/iOS/Live/Hatzalah/Settings.bundle/Root.plist;
 		sourceTree = "<absolute>";
 	};
-	46515B4012F521BC00DD18A3 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* SpeedDialApp-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/Moshe/Development/iOS/Live/Hatzalah/Hatzalah-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
-	46515B7312F5224B00DD18A3 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* SpeedDialApp-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/Moshe/Development/iOS/SpeedDialApp/Hatzalah-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
 	4666E26712EF3E7500AA46DA /* PBXBookmark */ = {
 		isa = PBXBookmark;
 		fRef = 460CBAF712CA7F59008C1093 /* Default.png */;
-	};
-	4666E26812EF3E7500AA46DA /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 460CBAF912CA7F59008C1093 /* Default@2x.png */;
-	};
-	4666E26912EF3E7500AA46DA /* PBXBookmark */ = {
-		isa = PBXBookmark;
-		fRef = 460CBAFA12CA7F59008C1093 /* Icon-72.png */;
 	};
 	4666E26A12EF3E7500AA46DA /* PBXBookmark */ = {
 		isa = PBXBookmark;
@@ -430,16 +447,6 @@
 		vrLen = 639;
 		vrLoc = 0;
 	};
-	4666E27512EF3E7500AA46DA /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 46CD910F12B2AA480049E818 /* SettingsView.m */;
-		name = "SettingsView.m: 121";
-		rLen = 0;
-		rLoc = 3691;
-		rType = 0;
-		vrLen = 865;
-		vrLoc = 2902;
-	};
 	4666E27612EF3E7500AA46DA /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 289233A90DB2D0DB0083E9F9 /* MainViewController.m */;
@@ -448,16 +455,6 @@
 		rLoc = 198;
 		rType = 0;
 		vrLen = 1236;
-		vrLoc = 0;
-	};
-	4666E2AD12EF418100AA46DA /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 46CD910E12B2AA480049E818 /* SettingsView.h */;
-		name = "SettingsView.h: 10";
-		rLen = 0;
-		rLoc = 185;
-		rType = 0;
-		vrLen = 321;
 		vrLoc = 0;
 	};
 	4666E2AE12EF418100AA46DA /* PlistBookmark */ = {
@@ -503,28 +500,6 @@
 		rType = 0;
 		vrLen = 322;
 		vrLoc = 0;
-	};
-	4666E2F312EF422D00AA46DA /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* SpeedDialApp-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/Moshe/Development/iOS/Live/Hatzalah/Hatzalah-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
-	4666E31A12EF461900AA46DA /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 8D1107310486CEB800E47090 /* SpeedDialApp-Info.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = "/Users/Moshe/Development/iOS/Live/Hatzalah/Hatzalah-Info.plist";
-		rLen = 0;
-		rLoc = 9223372036854775808;
 	};
 	4697562712C18E3C00E86E8F /* en */ = {
 		uiCtxt = {
@@ -653,16 +628,16 @@
 	};
 	46CD910E12B2AA480049E818 /* SettingsView.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {871, 509}}";
-			sepNavSelRange = "{185, 0}";
-			sepNavVisRange = "{0, 321}";
+			sepNavIntBoundsRect = "{{0, 0}, {871, 505}}";
+			sepNavSelRange = "{236, 0}";
+			sepNavVisRange = "{0, 322}";
 		};
 	};
 	46CD910F12B2AA480049E818 /* SettingsView.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {2084, 1703}}";
-			sepNavSelRange = "{3691, 0}";
-			sepNavVisRange = "{3320, 447}";
+			sepNavIntBoundsRect = "{{0, 0}, {2084, 2353}}";
+			sepNavSelRange = "{3670, 0}";
+			sepNavVisRange = "{2843, 1011}";
 			sepNavWindowFrame = "{{61, 173}, {750, 558}}";
 		};
 	};

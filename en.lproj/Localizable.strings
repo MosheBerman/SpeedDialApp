@@ -1,13 +1,13 @@
 /* 
    Localizable.strings
-   Hatzalah
+   SpeedDial
 
    Created by Moshe Berman on 12/21/10.
    Copyright 2010 MosheBerman.com. All rights reserved.
  */
 
 
-"Please select the Hatzalah phone number in your area." = "Please select the Hatzalah phone number in your area.";
+"Please select the SpeedDial phone number in your area." = "Please select the SpeedDial phone number in your area.";
 
 "Okay" = "Okay";
 
@@ -15,7 +15,7 @@
 
 "Choose your emergency number:" = "Choose your emergency number:";
 
-"Please open the Settings application and navigate to \"Hatzalah\". \nFlip the \"Call on Launch\" switch and you will be all set.\n\n To change your local Hatzalah number, flip the switch and relaunch this app." = "Please open the Settings application and navigate to \"Hatzalah\". \nFlip the \"Call on Launch\" switch and you will be all set.\n\n To change your local Hatzalah number, flip the switch and relaunch this app.";
+"Please open the Settings application and navigate to \"SpeedDial\". \nFlip the \"Call on Launch\" switch and you will be all set.\n\n To change your local SpeedDial number, flip the switch and relaunch this app." = "Please open the Settings application and navigate to \"SpeedDial\". \nFlip the \"Call on Launch\" switch and you will be all set.\n\n To change your local SpeedDial number, flip the switch and relaunch this app.";
 
 "Step 2:" = "Step 2:";
 

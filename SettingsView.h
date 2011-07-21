@@ -9,7 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "Constants.h"
 
-@interface SettingsView : UITableViewController{
+@interface SettingsView : UITableViewController {
 	NSArray *numbersArray;
 }
 
